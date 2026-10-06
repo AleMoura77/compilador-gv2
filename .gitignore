@@ -1,0 +1,18 @@
+# Produtos da compilação
+/g-v2
+/g-v2.exe
+*.o
+/lex.yy.c
+/g-v2.tab.c
+/g-v2.tab.h
+
+# Assembly gerado a partir dos exemplos
+*.g.s
+
+# Arquivos locais de editores e do sistema
+.vscode/
+.idea/
+*.swp
+*~
+.DS_Store
+Thumbs.db
